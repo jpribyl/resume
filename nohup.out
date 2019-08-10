@@ -68592,3 +68592,741 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--175
 (see the transcript file for additional information)
 Output written on resume.pdf (1 page).
 Transcript written on resume.log.
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2018-12-01>
+(./resume.cls (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty))))
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesome.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texmf-dist/tex/generic/babel/switch.def)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))))
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/share/texmf/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))) (./resume.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty)) (./resume.out)
+ (./resume.out) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+
+Overfull \hbox (8.65024pt too wide) in paragraph at lines 7--175
+[] [] [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
+
+
+Overfull \hbox (3.57825pt too wide) in paragraph at lines 7--175
+[]   [] 
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def) [1]
+(./resume.aux) )
+(see the transcript file for additional information)
+Output written on resume.pdf (1 page).
+Transcript written on resume.log.
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2018-12-01>
+(./resume.cls (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty))))
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesome.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texmf-dist/tex/generic/babel/switch.def)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))))
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/share/texmf/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))) (./resume.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty)) (./resume.out)
+ (./resume.out) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+
+Overfull \hbox (8.65024pt too wide) in paragraph at lines 7--175
+[] [] [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
+
+
+Overfull \hbox (9.2688pt too wide) in paragraph at lines 7--175
+[]   [] 
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def) [1]
+(./resume.aux) )
+(see the transcript file for additional information)
+Output written on resume.pdf (1 page).
+Transcript written on resume.log.
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2018-12-01>
+(./resume.cls (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty))))
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesome.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texmf-dist/tex/generic/babel/switch.def)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))))
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/share/texmf/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))) (./resume.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty)) (./resume.out)
+ (./resume.out) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+
+Overfull \hbox (8.65024pt too wide) in paragraph at lines 7--175
+[] [] [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
+
+
+Overfull \hbox (23.49518pt too wide) in paragraph at lines 7--175
+[]   [] 
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def) [1]
+(./resume.aux) )
+(see the transcript file for additional information)
+Output written on resume.pdf (1 page).
+Transcript written on resume.log.
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2018-12-01>
+(./resume.cls (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty))))
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesome.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texmf-dist/tex/generic/babel/switch.def)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))))
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/share/texmf/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))) (./resume.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty)) (./resume.out)
+ (./resume.out) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+
+Overfull \hbox (8.65024pt too wide) in paragraph at lines 7--175
+[] [] [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
+
+
+Overfull \hbox (14.95935pt too wide) in paragraph at lines 7--175
+[]   [] 
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def) [1]
+(./resume.aux) )
+(see the transcript file for additional information)
+Output written on resume.pdf (1 page).
+Transcript written on resume.log.
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2018-12-01>
+(./resume.cls (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty))))
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesome.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texmf-dist/tex/generic/babel/switch.def)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))))
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/share/texmf/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))) (./resume.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty)) (./resume.out)
+ (./resume.out) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+
+Overfull \hbox (8.65024pt too wide) in paragraph at lines 7--175
+[] [] [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
+
+
+Overfull \hbox (12.11407pt too wide) in paragraph at lines 7--175
+[]   [] 
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def) [1]
+(./resume.aux) )
+(see the transcript file for additional information)
+Output written on resume.pdf (1 page).
+Transcript written on resume.log.
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex)
+ \write18 enabled.
+entering extended mode
+(./resume.tex
+LaTeX2e <2018-12-01>
+(./resume.cls (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrextend.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty))))
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/local/share/texmf/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def))
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesome.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
+(/usr/local/share/texmf/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texmf-dist/tex/generic/babel/switch.def)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))))
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty)
+(/usr/local/share/texmf/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg))) (./resume.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty)) (./resume.out)
+ (./resume.out) (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+
+Overfull \hbox (8.65024pt too wide) in paragraph at lines 7--175
+[] [] [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
+
+
+Overfull \hbox (9.2688pt too wide) in paragraph at lines 7--175
+[]   [] 
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def) [1]
+(./resume.aux) )
+(see the transcript file for additional information)
+Output written on resume.pdf (1 page).
+Transcript written on resume.log.

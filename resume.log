@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2019.8.10)  10 AUG 2019 14:35
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2019.8.10)  10 AUG 2019 14:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -849,6 +849,11 @@ Overfull \hbox (8.65024pt too wide) in paragraph at lines 7--175
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--175
 
+ []
+
+
+Overfull \hbox (9.2688pt too wide) in paragraph at lines 7--175
+[]   [] 
  []
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
