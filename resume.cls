@@ -5,7 +5,7 @@
 \usepackage{amsfonts}
 
 %set margins
-\usepackage[margin=0.4in]{geometry}
+\usepackage[margin=0.3in]{geometry}
 \usepackage{multicol}
 \usepackage{scrextend}
 \usepackage{lipsum}% for demo only!
