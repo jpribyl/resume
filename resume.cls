@@ -5,7 +5,7 @@
 \usepackage{amsfonts}
 
 %set margins
-\usepackage[margin=0.3in]{geometry}
+\usepackage[left=.3in, right=.3in, top=.25in, bottom=.3in]{geometry}
 \usepackage{multicol}
 \usepackage{scrextend}
 \usepackage{lipsum}% for demo only!
@@ -14,7 +14,7 @@
 \usepackage{fontspec}
 \setmainfont{Ubuntu}
 \usepackage{xcolor}
-\usepackage{fontawesome}
+\usepackage{fontawesome5}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 \usepackage[nodisplayskipstretch]{setspace}
@@ -65,3 +65,8 @@
 
 %allow for images
 \usepackage{graphicx}
+
+
+\setlist[itemize]{leftmargin=*}
+\setlength\itemsep{.2em}
+\usepackage{tcolorbox}
