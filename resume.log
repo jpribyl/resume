@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.8.28)  28 AUG 2020 17:11
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.8.28)  18 SEP 2020 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -875,62 +875,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--43
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--59
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--74
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
 
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 126--127
+Overfull \hbox (7.86002pt too wide) in paragraph at lines 103--123
+[] []
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 140--141
 []\TU/Ubuntu(0)/m/n/10 Increased security by tunneling through a
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 131
+LaTeX Font Info:    Trying to load font information for U+msa on input line 145
 .
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 131
+LaTeX Font Info:    Trying to load font information for U+msb on input line 145
 .
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 8113) in paragraph at lines 158--162
+Underfull \hbox (badness 8113) in paragraph at lines 172--176
 []\TU/Ubuntu(0)/m/n/10 Arch Linux, Bootstrap, Django, Git,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--171
+Underfull \hbox (badness 10000) in paragraph at lines 179--185
 []\TU/Ubuntu(0)/m/n/10 AWS, AdonisJs, Bash, Bokeh, D3,
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 165--171
+Underfull \hbox (badness 1902) in paragraph at lines 179--185
 \TU/Ubuntu(0)/m/n/10 Jupyter, Keras, Kubernetes, MariaDB,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--171
+Underfull \hbox (badness 10000) in paragraph at lines 179--185
 \TU/Ubuntu(0)/m/n/10 Numpy, Pandas, Redis, RethinkDB,
  []
 
 
-Overfull \hbox (8.7862pt too wide) in paragraph at lines 7--173
+Overfull \hbox (8.7862pt too wide) in paragraph at lines 7--187
 [] [] []
  []
 
 
-Overfull \hbox (7.06767pt too wide) in paragraph at lines 7--173
+Overfull \hbox (7.06767pt too wide) in paragraph at lines 7--187
 []   [] 
  []
 
@@ -940,15 +945,15 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ) [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 173.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
 
 (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 173.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 173.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 173.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
  ) 
 Here is how much of TeX's memory you used:
  25596 strings out of 479284
@@ -957,6 +962,6 @@ Here is how much of TeX's memory you used:
  42820 multiletter control sequences out of 15000+600000
  534573 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,7n,83p,925b,548s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,7n,83p,925b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
