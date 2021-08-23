@@ -23,6 +23,7 @@
 %set colors
 \definecolor{lavender}{rgb}{0.42, 0.42, 0.875}
 \definecolor{blue}{rgb}{0.027, 0.384, 0.651}
+\definecolor{gray}{RGB}{212, 212, 216}
 
 %center with no extra spacing
 \newenvironment{tightcenter}{
@@ -67,6 +68,6 @@
 \usepackage{graphicx}
 
 
-\setlist[itemize]{leftmargin=*}
+\setlist[itemize]{leftmargin=*, before={\normalfont\small}}
 \setlength\itemsep{.2em}
 \usepackage{tcolorbox}
