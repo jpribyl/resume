@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2021.7.9)  23 AUG 2021 00:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2021.7.9)  26 AUG 2021 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,7 +990,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  24713 strings out of 476919
  479172 string characters out of 5827675
- 982168 words of memory out of 5000000
+ 982170 words of memory out of 5000000
  44275 multiletter control sequences out of 15000+600000
  405697 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
