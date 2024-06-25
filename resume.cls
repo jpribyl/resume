@@ -5,7 +5,7 @@
 \usepackage{amsfonts}
 
 %set margins
-\usepackage[left=.3in, right=.3in, top=.25in, bottom=.3in]{geometry}
+\usepackage[left=.5in, right=.5in, top=.5in, bottom=.5in]{geometry}
 \usepackage{multicol}
 \usepackage{scrextend}
 \usepackage{lipsum}% for demo only!
@@ -68,6 +68,6 @@
 \usepackage{graphicx}
 
 
-\setlist[itemize]{leftmargin=*, before={\normalfont\small}}
+\setlist[itemize]{leftmargin=*, before={\normalfont\large}}
 \setlength\itemsep{.2em}
 \usepackage{tcolorbox}
