@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2025.2.6)  8 FEB 2025 16:53
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2025.2.6)  9 FEB 2025 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -889,12 +889,12 @@ Overfull \hbox (8.49727pt too wide) in paragraph at lines 7--31
 [1
 
 ] [2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 332
+LaTeX Font Info:    Trying to load font information for U+msa on input line 344
 .
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 332
+LaTeX Font Info:    Trying to load font information for U+msb on input line 344
 .
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
